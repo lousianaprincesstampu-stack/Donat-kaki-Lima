@@ -1,0 +1,6 @@
+{
+  "name": "Donuteria Kampung - Game Donat 3D Indonesia",
+  "description": "Game simulasi membuat donat 3D ala Papa's Donuteria dengan suasana gerobak lokal Indonesia, menyajikan varian donat gula merah, seres warna-warni, dan coklat kacang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
